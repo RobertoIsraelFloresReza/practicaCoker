@@ -1,10 +1,3 @@
 HTMLAllCollection
 
 history
-
-
-kkk
-
-loooo
-
-
